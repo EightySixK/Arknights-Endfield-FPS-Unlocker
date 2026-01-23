@@ -2,6 +2,9 @@
 
 It supports custom values for FPS (or unlimited!)
 
+<img width="170" height="21" alt="image" src="https://github.com/user-attachments/assets/9df59c62-2ed9-496b-9b20-b262ef84c655" />
+
+
 ## --- HOW TO RUN ---
 
 Place the exe in the same directory as the endfield.exe
