@@ -5,6 +5,7 @@ It supports custom values for FPS (or unlimited!)
 <img width="170" height="21" alt="image" src="https://github.com/user-attachments/assets/9df59c62-2ed9-496b-9b20-b262ef84c655" />
 
 <img width="1079" height="578" alt="image" src="https://github.com/user-attachments/assets/f8764067-d996-49d6-a8fe-d575d22f1495" />
+(screenshot taken on a 7800X3D and RTX 
 
 ## --- HOW TO RUN ---
 
