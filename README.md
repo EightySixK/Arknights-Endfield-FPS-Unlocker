@@ -2,7 +2,7 @@ This is an FPS unlocker for Arknights Endfield
 
 It supports custom values for FPS (or unlimited!)
 
-\--- HOW TO RUN ---/
+--- HOW TO RUN ---
 
 Place the exe in the same directory as the endfield.exe
 then run the unlocker exe and input the desired FPS value.
