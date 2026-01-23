@@ -1,0 +1,6 @@
+#include "resource.h"
+
+// Embed the DLLs as binary resources
+// Paths are relative to where rc.exe is run from (project root)
+IDR_ACE_INJECT_DLL RCDATA "bin\\ace_inject.dll"
+IDR_VULKAN_DLL RCDATA "bin\\vulkan-1.dll"
