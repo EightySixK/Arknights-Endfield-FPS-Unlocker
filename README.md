@@ -1,6 +1,42 @@
-# This is an FPS unlocker for Arknights Endfield <br />
+# This is an FPS unlocker and Graphical Enhancement Tool for Arknights Endfield <br />
 
 It supports custom values for FPS (or unlimited!) <br />
+Modifying the games graphical features, settings include:  <br />
+
+=== Shadow Settings ===
+CSMShadowSoftness
+CSMShadowRes
+CharacterShadowRes
+PunctualLightShadowRes
+ASMShadowRes
+ScreenSpaceShadowMask
+CSMShadowSampleMode
+CharacterShadowSampleMode
+CSMDepthBias
+CSMNormalBias
+CSMIntensity
+ContactShadowIntensity
+ContactShadowThickness
+ContactShadowBilinear
+ContactShadowContract
+
+=== Anti-Aliasing ===
+Disabling Native AA
+SMAA
+
+=== Screen Space Reflections ===
+SSRQuality
+SSRSampleCount
+SSRUpsampling
+
+=== Resolution Scale ===
+RenderScale (Useful for values greater than 100% that the game otherwise doesn't allow)
+
+=== Texture Quality ===
+AnisoLevel (Anisotropic filtering)
+
+=== Post Processing ===
+Sharpening
 
 <img width="170" height="21" alt="image" src="https://github.com/user-attachments/assets/9df59c62-2ed9-496b-9b20-b262ef84c655" /> <br />
 
