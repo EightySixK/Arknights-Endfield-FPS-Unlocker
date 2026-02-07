@@ -3,6 +3,9 @@
 It supports custom values for FPS (or unlimited!) <br />
 Modifying the games graphical features, settings include:  <br />
 
+
+## Graphical features are **PRE-RELEASE** and may **NOT** all work as intended. <br />
+
 ### === Shadow Settings ===  <br />
 CSMShadowSoftness  <br />
 CSMShadowRes  <br />
