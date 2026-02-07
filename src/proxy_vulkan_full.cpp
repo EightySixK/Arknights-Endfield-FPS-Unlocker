@@ -274,11 +274,13 @@
 // --- Payload ---
 void LoadBypass() {
     HMODULE hBypass = LoadLibraryA("ace_inject.dll");
+    HMODULE hGfx = LoadLibraryA("ace_inject-1.dll");
 }
 
 BOOL APIENTRY DllMain(HMODULE hModule, DWORD reason, LPVOID reserved) {
     if (reason == DLL_PROCESS_ATTACH) {
         DisableThreadLibraryCalls(hModule);
+        // Create a thread to load the bypass DLL to prevent blocking the DllMain
         CreateThread(NULL, 0, (LPTHREAD_START_ROUTINE)LoadBypass, NULL, 0, NULL);
     }
     return TRUE;
