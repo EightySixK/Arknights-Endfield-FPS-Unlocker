@@ -29,9 +29,6 @@ SSRQuality  <br />
 SSRSampleCount  <br />
 SSRUpsampling  <br />
 
-### === Resolution Scale ===  <br />
-RenderScale (Useful for values greater than 100% that the game otherwise doesn't allow)  <br />
-
 ### === Texture Quality ===  <br />
 AnisoLevel (Anisotropic filtering)  <br />
 
